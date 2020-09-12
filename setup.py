@@ -11,7 +11,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="decompose-mrobison",
-    version="0.0.1",
+    version="0.0.2",
     author="Mike Robison",
     author_email="mrobison@wts.edu",
     description="A module for decomposing strings in the latin alphabet to the ascii subset.",
